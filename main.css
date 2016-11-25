@@ -2,7 +2,7 @@ h2 {
     font-size: 32px;
     font-style: Palatino, sans-serif;
 }
-nav {
+.nav {
     background-image: url(http://thesource.com/wp-content/uploads/2015/12/image1.jpeg);
     background-size: cover;
 }
