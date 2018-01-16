@@ -1,8 +1,111 @@
-h2 {
-    font-size: 32px;
-    font-style: Palatino, sans-serif;
+.myIntro {
+	padding-top: 3%;
+	padding-right: 8%;
+	padding-bottom: 4%;
+	padding-left: 8%;
 }
-.nav {
-    background-image: url(http://thesource.com/wp-content/uploads/2015/12/image1.jpeg);
-    background-size: cover;
+
+.introPic {
+	padding-left: 5%;
+}
+
+.introRect {
+	padding-top: 50%;
+	padding-left: 70%;
+}
+
+.introTextBlock {
+	padding-top: 0.5%;
+}
+
+.introText {
+	padding-top: 8%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	font-size: 22px;
+}
+
+.projects, .me, .involvements {
+	padding-top: 1%;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	font-size: 45px;
+}
+
+.projectsBlurb {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.projectSub {
+	padding-top: 5%;
+	padding-bottom: 3%;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	font-size: 35px;
+}
+
+.projectRect {
+	padding-top: 35%;
+	padding-left: 50%;
+}
+
+.projectDes {
+	padding-top: 11%;
+	padding-bottom: 80%;
+}
+
+.desTitle1 {
+	padding-top: 16%;
+	text-align: right;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+}
+
+.desBlurb {
+	padding-top: 5%;
+	padding-left: 10%;
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+}
+
+.invHackGT, .invORGT, .invAKPsi {
+	padding-top: 4%;
+	padding-left: 25%;
+}
+
+.hackgtRect {
+	padding-left: 120%;
+	padding-top: 63%;
+}
+
+.hackG4TextBlock {
+	padding-top: 3%;
+}
+
+.hackgText, .orgtText, .akpsiText {
+	padding-top: 2%;
+	padding-left: 2%;
+	font-size: 18px;
+}
+
+.orgtTextBlock {
+	padding-top: 7%;
+}
+
+.akpsiRect {
+	padding-left: 120%;
+	padding-top: 52%;
+}
+
+.akpsiTextBlock {
+	padding-top: 5%;
+	padding-bottom: 10%;
 }
